@@ -12,19 +12,6 @@ to improve my logic building , problem-solving skils,and DSA fundamentals.
 - Object-Oriented Programming (OOP)
 - File handling
 - Mini projects
-  
-# Folder Structure
-daily-coding
-│
-├── Day01_MaxOfThree.cpp
-├── Day02_EvenOdd_PosNeg.cpp
-├── Day03_PrimeNumber.cpp
-├── ...
-├── Day18_MatrixAddition.cpp
-├── Day19_MatrixMultiplication.cpp
-├── ...
-├── Day50_FinalProject.cpp
-└── README.md
 
 ## 📅 Daily Progress
 
