@@ -21,7 +21,7 @@ void evenOdd(){
 }
 
 void primeCheck() {
-  int n, falg =1;
+  int n, flag =1;
   cout<<"Enter number:";
   cin>>n;
   if(n<=1) flag = 0;
@@ -62,7 +62,7 @@ void reverseText(){
     cout<<str[i];
   cout<<endl;
 }
-void palindromecheck(){
+void palindromeCheck(){
   int n,rev =0,temp;
   cout<<"Enter number:";
   cin>>n;
@@ -89,7 +89,7 @@ void armstrongCheck() {
   else cout<<"Not Armstrong\n";
 }
 
-void Calculator() {
+void calculator() {
   int a,b;
   char op;
   cout<<"Enter a operator(+ - * /):";
@@ -129,7 +129,7 @@ int main(){
       case 2: evenOdd(); break;
       case 3: primeCheck(); break;
       case 4: factorialCalc(); break;
-      case 5: fibonaccciSeries(); break;
+      case 5: fibonacciSeries(); break;
       case 6: reverseText(); break;
       case 7: palindromeCheck(); break;
       case 8: armstrongCheck(); break;
@@ -140,5 +140,3 @@ int main(){
   }while(choice !=0);
   return 0;
 }
-
-
