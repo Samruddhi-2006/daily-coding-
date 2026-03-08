@@ -11,7 +11,7 @@ int main() {
 
   for(int i = 0; ch[i] != '0';i++)
     {
-      cout<<ch[strln(ch)-i-1];
+      cout<<ch[strlen(ch)-i-1];
     }
   return 0;
 }
