@@ -19,10 +19,10 @@ int main() {
         cout<<"Result="<<a+b;
         break;
     case'-':
-        cout<<"Result="a-b;
+        cout<<"Result="<<a-b;
         break;
     case'*':
-        cout<<"Result="a*b;
+        cout<<"Result="<<a*b;
         break;
     case'/':
         if(b!=0)
